@@ -4,6 +4,13 @@
 	<groupId>kevsn</groupId>
 	<artifactId>ktools</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<dependencies>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.6</version>
+		</dependency>
+	</dependencies>
 	<build>
 		<pluginManagement>
 			<plugins>
